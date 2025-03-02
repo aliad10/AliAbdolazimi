@@ -2,7 +2,7 @@
 
 <p align="center"> 
  <a href="mailto:abdolazim010.ali@gmail.com" alt="Email">
-   <img src="https://img.shields.io/badge/amir@abdollahi.dev-0078D4?style=flat&logo=email&logoColor=white" />
+   <img src="https://img.shields.io/badge/abdolazim010.ali@gmail.com-0078D4?style=flat&logo=email&logoColor=white" />
  </a>
  <a href="https://www.linkedin.com/in/ali-abdolazimi-8004421b7/" alt="Connect on LinkedIn">
    <img src="https://img.shields.io/badge/Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white" />
